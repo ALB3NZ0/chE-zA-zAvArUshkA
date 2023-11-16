@@ -1,0 +1,14 @@
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\bin\Debug\net6.0\kAk YA UstAl.exe
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\bin\Debug\net6.0\kAk YA UstAl.deps.json
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\bin\Debug\net6.0\kAk YA UstAl.runtimeconfig.json
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\bin\Debug\net6.0\kAk YA UstAl.dll
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\bin\Debug\net6.0\kAk YA UstAl.pdb
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.AssemblyInfoInputs.cache
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.AssemblyInfo.cs
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.csproj.CoreCompileInputs.cache
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.dll
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\refint\kAk YA UstAl.dll
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.pdb
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\kAk YA UstAl.genruntimeconfig.cache
+C:\Users\Рустам\source\repos\kAk YA UstAl\kAk YA UstAl\obj\Debug\net6.0\ref\kAk YA UstAl.dll
